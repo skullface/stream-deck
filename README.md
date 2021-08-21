@@ -1,0 +1,1 @@
+[Stream Deck MK.2](https://www.elgato.com/en/stream-deck-mk2) is a USB controller keypad with 15 LCD buttons. Here’s how I use it!
